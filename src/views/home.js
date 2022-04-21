@@ -103,11 +103,13 @@ const Home = () => {
                 </div>
                 <div className="col-md-6 col-lg-7">
                   <p>
-                    I am a full stack Developer i do frontend by using react js
-                    librery and backend using node js and also I am goot at
-                    design using figma and photoshop.
+                  I am a dedicated passionate software developer willing to face the current challenges 
+                  and ready to learn new skills. I have a bachelor degree in Information Technology (IT) 
+                  and am extremely knowledgeable with experience in web application development. 
+                  I am a strongly reliable person and highly flexible means I can work with anyone 
+                  in any community and also, I am a faster leaner..
                   </p>
-                  <a className="btn" href="#">
+                  <a className="btn" href="amutuyimana64@gmail.com">
                     Hire Me
                   </a>
                 </div>
@@ -756,8 +758,7 @@ const Home = () => {
                       <a href="tel:+250782099213">+250782099213</a>
                     </p>
                     <p>
-                      <i className="fa fa-map-marker"></i>123 Street, Los
-                      Angeles, CA, USA
+                      <i className="fa fa-map-marker"></i>Kigali-Kacyiru
                     </p>
                     <div className="social">
                       <a className="btn" href="">
