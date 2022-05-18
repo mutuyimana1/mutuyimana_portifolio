@@ -74,10 +74,10 @@ const Home = () => {
             <div className="content-inner">
               <p>I'm</p>
               <h1>Alice Mutuyimana</h1>
-              <h2>a Full stack Developer</h2>
+              <h2>a Full stack Developer, UI/UX Design</h2>
               <span className="typed-cursor">|</span>
               <div className="typed-text">
-                Web Designer, Web Developer, Front End Developer, Apps
+                 Web Developer,UI/UX Design, Front End Developer, Apps
                 Developer, Graphic Designer
               </div>
             </div>
@@ -87,7 +87,7 @@ const Home = () => {
               <a className="btn" href="#">
                 <i className="fa fa-download"></i>Resume
               </a>
-              <a className="btn" href="#">
+              <a className="btn" href="https://www.linkedin.com/in/mutuyimana-alice-7b7224187/">
                 <i className="fa fa-hands-helping"></i>Hire Me
               </a>
             </div>
@@ -109,7 +109,7 @@ const Home = () => {
                   I am a strongly reliable person and highly flexible means I can work with anyone 
                   in any community and also, I am a faster leaner..
                   </p>
-                  <a className="btn" href="amutuyimana64@gmail.com">
+                  <a className="btn" href="https://www.linkedin.com/in/mutuyimana-alice-7b7224187/">
                     Hire Me
                   </a>
                 </div>
@@ -119,7 +119,7 @@ const Home = () => {
                   <div className="skills">
                     <div className="skill-name">
                       <p>Design</p>
-                      <p>85%</p>
+                      <p>97%</p>
                     </div>
                     <div className="progress">
                       <div
@@ -216,7 +216,7 @@ const Home = () => {
                     <h3>Advanced web development</h3>
                     <p>
                       I have completed she can code program cohort 5 doing Html,
-                      Css, React js and Node js
+                      Css, React js and Node js, I workedas Intern in SolvIT Africa with the position of frontend developer
                     </p>
                   </div>
                 </div>
@@ -233,7 +233,7 @@ const Home = () => {
                   <div className="srv-col">
                     <i className="fa fa-desktop"></i>
                     <h3>Web Design</h3>
-                    <p>Desing a website</p>
+                    <p>Desing a a mockup for website</p>
                   </div>
                 </div>
                 <div className="col-md-6">
@@ -241,22 +241,20 @@ const Home = () => {
                     <i className="fa fa-laptop"></i>
                     <h3>Web Development</h3>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      development of website with higher user experience and I focused on thier functionalities and capabilities.
                     </p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="srv-col">
                     <i className="fa fa-search"></i>
-                    <h3>UI Design</h3>
+                    <h3>UI/UX Design</h3>
                     <p>
-                      Lorem ipsum dolor sit amet elit suscipit orci. Donec
-                      molestie velit id libero.
+                      I do create UI/UX Design designing for mobile,,web and desktop.
                     </p>
                   </div>
                 </div>
-                <div className="col-md-6">
+                {/* <div className="col-md-6">
                   <div className="srv-col">
                     <i className="fa fa-envelope-open-text"></i>
                     <h3>UX Design</h3>
@@ -265,7 +263,7 @@ const Home = () => {
                       molestie velit id libero.
                     </p>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -343,7 +341,7 @@ const Home = () => {
                         <i className="fa fa-link"></i>
                       </a>
                       <a className="portfolio-title" href="#">
-                        Project Name <span>Web Design</span>
+                        Certificate<span>You did well</span>
                       </a>
                     </figure>
                   </div>
@@ -373,7 +371,7 @@ const Home = () => {
                         <i className="fa fa-link"></i>
                       </a>
                       <a className="portfolio-title" href="#">
-                        Project Name <span>Web Development</span>
+                       Marry chrismass <span>W wish you marry chrismass</span>
                       </a>
                     </figure>
                   </div>
@@ -403,7 +401,7 @@ const Home = () => {
                         <i className="fa fa-link"></i>
                       </a>
                       <a className="portfolio-title" href="#">
-                        Project Name <span>Web Development</span>
+                       missa<span>Lord is good all the time</span>
                       </a>
                     </figure>
                   </div>
@@ -416,12 +414,12 @@ const Home = () => {
                   <div className="portfolio-wrap">
                     <figure>
                       <img
-                        src="img/portfolio-5.png"
+                        src="img/welcome.png"
                         className="img-fluid"
                         alt=""
                       />
                       <a
-                        href="img/portfolio-5.png"
+                        href="img/welcome.png"
                         className="link-preview"
                         data-lightbox="portfolio"
                         data-title="Project Name"
@@ -433,7 +431,7 @@ const Home = () => {
                         <i className="fa fa-link"></i>
                       </a>
                       <a className="portfolio-title" href="#">
-                        Project Name <span>Digital Marketing</span>
+                        Welcome <span>welcome to new students</span>
                       </a>
                     </figure>
                   </div>
@@ -463,7 +461,7 @@ const Home = () => {
                         <i className="fa fa-link"></i>
                       </a>
                       <a className="portfolio-title" href="#">
-                        Project Name <span>Digital Marketing</span>
+                        missa <span>batisimu ya nyagasani</span>
                       </a>
                     </figure>
                   </div>
@@ -483,7 +481,7 @@ const Home = () => {
                                     <h3>Communote Catholic st Paul</h3>
                                     <h4>Design</h4>
                                    
-                                    <p>I am designing fliers for prepation missa and celemony</p>
+                                    <p>I am designing flyers for prepation missa and celemony</p>
                                 </div>
                             </div>
                             <div class="col-md-6">
@@ -549,20 +547,20 @@ const Home = () => {
                       <div className="review-slider-item">
                         <div className="review-text">
                           <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Sed eu suscipit orci. Donec molestie velit id
-                            libero blandit, quis suscipit urna suscipit. Donec
-                            aliquet erat eu lacinia iaculis. Ut tempor tellus eu
-                            sem pharetra feugiat.
+                          I am able to increase the functionality of website 
+                          dramatically the affordable costs. I design a website much is
+                           more easy to use, has tons of more features than before and 
+                           is incredibly easy to maintain. 
+                          
                           </p>
                         </div>
-                        <div className="review-img">
-                          {/* <img src="img/review-3.jpg" alt="Image" /> */}
+                        {/* <div className="review-img">
+                          <img src="img/review-3.jpg" alt="Image" />
                           <div className="review-name">
                             <h3>Client Name</h3>
                             <p>Profession</p>
                           </div>
-                        </div>
+                        </div> */}
                       </div>
                     </div>
                     {/* <div
@@ -780,6 +778,7 @@ const Home = () => {
                 <div className="col-md-6">
                   <div className="form">
                     <form>
+                      <b>currently  sending message not work</b>
                       <div className="form-row">
                         <div className="form-group col-md-6">
                           <input
