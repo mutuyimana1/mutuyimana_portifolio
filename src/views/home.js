@@ -466,8 +466,11 @@ const Home = () => {
                     </figure>
                   </div>
                 </div>
+         
               </div>
             </div>
+            <a href="https://www.figma.com/files/recent?fuid=1093590336444973863"><button>figma link1</button></a>
+            <a href="https://www.figma.com/files/recent?fuid=993899557701917887"><button>figma link2</button></a>
           </div>
           <div class="experience" id="experience">
                     <div class="content-inner">
