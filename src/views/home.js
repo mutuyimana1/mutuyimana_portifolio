@@ -6,7 +6,7 @@ const Home = () => {
       <div className="wrapper">
         <div className="sidebar">
           <div className="sidebar-header">
-            <img src="img/profile.png" alt="Image" />
+            <img src="img/prof.jpg" alt="Image" />
           </div>
           <div className="sidebar-content">
             <nav className="navbar navbar-expand-md bg-dark navbar-dark">
@@ -74,11 +74,11 @@ const Home = () => {
             <div className="content-inner">
               <p>I'm</p>
               <h1>Alice Mutuyimana</h1>
-              <h2>a Full stack Developer, UI/UX Design</h2>
+              <h2>a Full stack Developer, UI/UX Designer</h2>
               <span className="typed-cursor">|</span>
               <div className="typed-text">
-                 Web Developer,UI/UX Design, Front End Developer, Apps
-                Developer, Graphic Designer
+                Web Developer,UI/UX Design, Front End Developer, Apps Developer,
+                Graphic Designer
               </div>
             </div>
           </div>
@@ -87,7 +87,10 @@ const Home = () => {
               <a className="btn" href="#">
                 <i className="fa fa-download"></i>Resume
               </a>
-              <a className="btn" href="https://www.linkedin.com/in/mutuyimana-alice-7b7224187/">
+              <a
+                className="btn"
+                href="https://www.linkedin.com/in/mutuyimana-alice-7b7224187/"
+              >
                 <i className="fa fa-hands-helping"></i>Hire Me
               </a>
             </div>
@@ -99,17 +102,22 @@ const Home = () => {
               </div>
               <div className="row align-items-center">
                 <div className="col-md-6 col-lg-5">
-                  <img src="img/ather.png" alt="Image" />
+                  <img src="img/prof.jpg" alt="Image" />
                 </div>
                 <div className="col-md-6 col-lg-7">
                   <p>
-                  I am a dedicated passionate software developer willing to face the current challenges 
-                  and ready to learn new skills. I have a bachelor degree in Information Technology (IT) 
-                  and am extremely knowledgeable with experience in web application development. 
-                  I am a strongly reliable person and highly flexible means I can work with anyone 
-                  in any community and also, I am a faster leaner..
+                    I am a dedicated passionate software developer willing to
+                    face the current challenges and ready to learn new skills. I
+                    have a bachelor degree in Information Technology (IT) and am
+                    extremely knowledgeable with experience in web application
+                    development. I am a strongly reliable person and highly
+                    flexible means I can work with anyone in any community and
+                    also, I am a faster leaner..
                   </p>
-                  <a className="btn" href="https://www.linkedin.com/in/mutuyimana-alice-7b7224187/">
+                  <a
+                    className="btn"
+                    href="https://www.linkedin.com/in/mutuyimana-alice-7b7224187/"
+                  >
                     Hire Me
                   </a>
                 </div>
@@ -216,7 +224,8 @@ const Home = () => {
                     <h3>Advanced web development</h3>
                     <p>
                       I have completed she can code program cohort 5 doing Html,
-                      Css, React js and Node js, I workedas Intern in SolvIT Africa with the position of frontend developer
+                      Css, React js and Node js, I workedas Intern in SolvIT
+                      Africa with the position of frontend developer
                     </p>
                   </div>
                 </div>
@@ -241,7 +250,8 @@ const Home = () => {
                     <i className="fa fa-laptop"></i>
                     <h3>Web Development</h3>
                     <p>
-                      development of website with higher user experience and I focused on thier functionalities and capabilities.
+                      development of website with higher user experience and I
+                      focused on thier functionalities and capabilities.
                     </p>
                   </div>
                 </div>
@@ -250,7 +260,8 @@ const Home = () => {
                     <i className="fa fa-search"></i>
                     <h3>UI/UX Design</h3>
                     <p>
-                      I do create UI/UX Design designing for mobile,,web and desktop.
+                      I do create UI/UX Design designing for mobile,,web and
+                      desktop.
                     </p>
                   </div>
                 </div>
@@ -371,7 +382,7 @@ const Home = () => {
                         <i className="fa fa-link"></i>
                       </a>
                       <a className="portfolio-title" href="#">
-                       Marry chrismass <span>W wish you marry chrismass</span>
+                        Marry chrismass <span>W wish you marry chrismass</span>
                       </a>
                     </figure>
                   </div>
@@ -401,7 +412,7 @@ const Home = () => {
                         <i className="fa fa-link"></i>
                       </a>
                       <a className="portfolio-title" href="#">
-                       missa<span>Lord is good all the time</span>
+                        missa<span>Lord is good all the time</span>
                       </a>
                     </figure>
                   </div>
@@ -413,11 +424,7 @@ const Home = () => {
                 >
                   <div className="portfolio-wrap">
                     <figure>
-                      <img
-                        src="img/welcome.png"
-                        className="img-fluid"
-                        alt=""
-                      />
+                      <img src="img/welcome.png" className="img-fluid" alt="" />
                       <a
                         href="img/welcome.png"
                         className="link-preview"
@@ -466,46 +473,57 @@ const Home = () => {
                     </figure>
                   </div>
                 </div>
-         
               </div>
             </div>
-            <a href="https://www.figma.com/files/recent?fuid=1093590336444973863"><button>figma link1</button></a>
-            <a href="https://www.figma.com/files/recent?fuid=993899557701917887"><button>figma link2</button></a>
+            <a href="https://www.figma.com/files/recent?fuid=1093590336444973863">
+              <button>figma link1</button>
+            </a>
+            <a href="https://www.figma.com/files/recent?fuid=993899557701917887">
+              <button>figma link2</button>
+            </a>
           </div>
           <div class="experience" id="experience">
-                    <div class="content-inner">
-                        <div class="content-header">
-                            <h2>Experience</h2>
-                        </div>
-                        <div class="row align-items-center">
-                            <div class="col-md-6">
-                                <div class="exp-col">
-                                    <span>01-Jan-2020 <i>to</i> 31-Dec-2023</span>
-                                    <h3>Communote Catholic st Paul</h3>
-                                    <h4>Design</h4>
-                                   
-                                    <p>I am designing flyers for prepation missa and celemony</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="exp-col">
-                                    <span>01-dec-2021 <i>to</i> 01-feb-2022</span>
-                                    <h3>she can code</h3>
-                                    <h4>Full stack developer</h4>
-                                   
-                                    <p>I was designing frontend and backend</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="exp-col">
-                                    <span>23-feb-2020 <i>to</i>present</span>
-                                    <h3>SolvIT</h3>
-                                    <h4>frontend</h4>
-                                    <h5>Internership</h5>
-                                    <p>I am developing a frontend using React js</p>
-                                </div>
-                            </div>
-                            {/* <!-- <div class="col-md-6">
+            <div class="content-inner">
+              <div class="content-header">
+                <h2>Experience</h2>
+              </div>
+              <div class="row align-items-center">
+                <div class="col-md-6">
+                  <div class="exp-col">
+                    <span>
+                      01-Jan-2020 <i>to</i> 31-Dec-2023
+                    </span>
+                    <h3>Communote Catholic st Paul</h3>
+                    <h4>Design</h4>
+
+                    <p>
+                      I am designing flyers for prepation missa and celemony
+                    </p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="exp-col">
+                    <span>
+                      01-dec-2021 <i>to</i> 01-feb-2022
+                    </span>
+                    <h3>she can code</h3>
+                    <h4>Full stack developer</h4>
+
+                    <p>I was designing frontend and backend</p>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="exp-col">
+                    <span>
+                      23-feb-2020 <i>to</i>present
+                    </span>
+                    <h3>SolvIT</h3>
+                    <h4>frontend</h4>
+                    <h5>Internership</h5>
+                    <p>I am developing a frontend using React js</p>
+                  </div>
+                </div>
+                {/* <!-- <div class="col-md-6">
                                 <div class="exp-col">
                                     <span>01-Jan-2020 <i>to</i> 31-Dec-2050</span>
                                     <h3>Soft Agency</h3>
@@ -514,9 +532,9 @@ const Home = () => {
                                     <p>Lorem ipsum dolor sit amet elit suscipit orci. Donec molestie velit id libero.</p>
                                 </div>
                             </div> --> */}
-                        </div>
-                    </div>
-                </div>
+              </div>
+            </div>
+          </div>
           <div className="review" id="review">
             <div className="content-inner">
               <div className="content-header">
@@ -550,11 +568,11 @@ const Home = () => {
                       <div className="review-slider-item">
                         <div className="review-text">
                           <p>
-                          I am able to increase the functionality of website 
-                          dramatically the affordable costs. I design a website much is
-                           more easy to use, has tons of more features than before and 
-                           is incredibly easy to maintain. 
-                          
+                            I am able to increase the functionality of website
+                            dramatically the affordable costs. I design a
+                            website much is more easy to use, has tons of more
+                            features than before and is incredibly easy to
+                            maintain.
                           </p>
                         </div>
                         {/* <div className="review-img">
@@ -768,20 +786,22 @@ const Home = () => {
                       <a className="btn" href="">
                         <i className="fab fa-facebook-f"></i>
                       </a>
-                      <a className="btn" href="https://www.linkedin.com/in/mutuyimana-alice-7b7224187">
+                      <a
+                        className="btn"
+                        href="https://www.linkedin.com/in/mutuyimana-alice-7b7224187"
+                      >
                         <i className="fab fa-linkedin-in"></i>
                       </a>
                       <a className="btn" href="">
                         <i className="fab fa-instagram"></i>
                       </a>
-                      
                     </div>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="form">
                     <form>
-                      <b>currently  sending message not work</b>
+                      <b>currently sending message not work</b>
                       <div className="form-row">
                         <div className="form-group col-md-6">
                           <input
@@ -824,15 +844,16 @@ const Home = () => {
             </div>
           </div>
           <div class="footer">
-                    <div class="content-inner">
-                        <div class="row align-items-center">
-                            <div class="col-md-6">
-                                <p>© Copyright <a href="https://htmlcodex.com">Mutuyimana</a></p>
-                            </div>
-                             
-                        </div>
-                    </div>
+            <div class="content-inner">
+              <div class="row align-items-center">
+                <div class="col-md-6">
+                  <p>
+                    © Copyright <a href="https://htmlcodex.com">Mutuyimana</a>
+                  </p>
                 </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
