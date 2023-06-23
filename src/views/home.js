@@ -43,11 +43,7 @@ const Home = () => {
                       Service<i className="fa fa-tasks"></i>
                     </a>
                   </li>
-                  <li className="nav-item">
-                    <a className="nav-link" href="#portfolio">
-                      Portfolio<i className="fa fa-file-archive"></i>
-                    </a>
-                  </li>
+
                   <li className="nav-item">
                     <a className="nav-link" href="#contact">
                       Contact<i className="fa fa-envelope"></i>
@@ -64,7 +60,7 @@ const Home = () => {
             <a href="#">
               <i className="fab fa-facebook-f"></i>
             </a>
-            <a href="https://www.linkedin.com/in/mutuyimana-alice-7b7224187">
+            <a href="https://www.linkedin.com/in/Alice-Mutuyimana ">
               <i className="fab fa-linkedin-in"></i>
             </a>
           </div>
@@ -122,69 +118,6 @@ const Home = () => {
                   </a>
                 </div>
               </div>
-              <div className="row">
-                <div className="col-md-6">
-                  <div className="skills">
-                    <div className="skill-name">
-                      <p>Design</p>
-                      <p>97%</p>
-                    </div>
-                    <div className="progress">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="85"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "90%" }}
-                      ></div>
-                    </div>
-                    <div className="skill-name">
-                      <p>Html</p>
-                      <p>95%</p>
-                    </div>
-                    <div className="progress">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="95"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "90%" }}
-                      ></div>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-md-6">
-                  <div className="skills">
-                    <div className="skill-name">
-                      <p>Development</p>
-                      <p>90%</p>
-                    </div>
-                    <div className="progress">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="90"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "90%" }}
-                      ></div>
-                    </div>
-
-                    <div className="progress">
-                      <div
-                        className="progress-bar"
-                        role="progressbar"
-                        aria-valuenow="85"
-                        aria-valuemin="0"
-                        aria-valuemax="100"
-                        style={{ width: "90%" }}
-                      ></div>
-                    </div>
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
           <div className="education" id="education">
@@ -196,36 +129,26 @@ const Home = () => {
                 <div className="col-md-6">
                   <div className="edu-col">
                     <span>
-                      01-Jan-2015 <i>to</i> 31-Dec-2017
-                    </span>
-                    <h3>A'level Certificate</h3>
-                    <p>
-                      I completed A'level in Mathematics Computer Science and
-                      Economics(MCE)
-                    </p>
-                  </div>
-                </div>
-                <div className="col-md-6">
-                  <div className="edu-col">
-                    <span>
-                      01-dec-2018<i>to</i> Present
+                      december-2018<i>to</i> February-2023
                     </span>
                     <h3>Bachelor Degree</h3>
                     <p>
-                      I am doing Information technology in UR Nyarugenge Campus
+                      I am a graduate form University of Rwanda College of
+                      Science and Technology (CST) in Information Technology
+                      (IT)
                     </p>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="edu-col">
                     <span>
-                      01-dec-2021 <i>to</i> 01-feb-2022
+                      december-2021 <i>to</i> february-2022
                     </span>
                     <h3>Advanced web development</h3>
                     <p>
                       I have completed she can code program cohort 5 doing Html,
-                      Css, React js and Node js, I workedas Intern in SolvIT
-                      Africa with the position of frontend developer
+                      Css, React js and Node js. and I worked on class projects
+                      to enhance experience and professional skills
                     </p>
                   </div>
                 </div>
@@ -278,7 +201,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-          <div className="portfolio" id="portfolio">
+          {/* <div className="portfolio" id="portfolio">
             <div className="content-inner">
               <div className="content-header">
                 <h2>Portfolio</h2>
@@ -481,7 +404,7 @@ const Home = () => {
             <a href="https://www.figma.com/files/recent?fuid=993899557701917887">
               <button>figma link2</button>
             </a>
-          </div>
+          </div> */}
           <div class="experience" id="experience">
             <div class="content-inner">
               <div class="content-header">
@@ -515,12 +438,12 @@ const Home = () => {
                 <div class="col-md-6">
                   <div class="exp-col">
                     <span>
-                      23-feb-2020 <i>to</i>present
+                      23-feb-2020 <i>to</i>May-2023
                     </span>
                     <h3>SolvIT</h3>
                     <h4>frontend</h4>
-                    <h5>Internership</h5>
-                    <p>I am developing a frontend using React js</p>
+                    <h5>Full-time</h5>
+                    <p>I developed a frontend using React js</p>
                   </div>
                 </div>
                 {/* <!-- <div class="col-md-6">
@@ -535,225 +458,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-          <div className="review" id="review">
-            <div className="content-inner">
-              <div className="content-header">
-                <h2>Review</h2>
-              </div>
-              <div className="row align-items-center review-slider slick-initialized slick-slider">
-                <button
-                  className="slick-prev slick-arrow"
-                  aria-label="Previous"
-                  type="button"
-                  style={{}}
-                >
-                  Previous
-                </button>
-                <div className="slick-list draggable">
-                  <div
-                    className="slick-track"
-                    style={{
-                      opacity: "1",
-                      width: " 4382px",
-                      transform: "translate3d(-626px, 0px, 0px);",
-                    }}
-                  >
-                    <div
-                      className="col-md-12 slick-slide slick-cloned"
-                      data-slick-index="-1"
-                      aria-hidden="true"
-                      tabindex="-1"
-                      style={{ width: "626px" }}
-                    >
-                      <div className="review-slider-item">
-                        <div className="review-text">
-                          <p>
-                            I am able to increase the functionality of website
-                            dramatically the affordable costs. I design a
-                            website much is more easy to use, has tons of more
-                            features than before and is incredibly easy to
-                            maintain.
-                          </p>
-                        </div>
-                        {/* <div className="review-img">
-                          <img src="img/review-3.jpg" alt="Image" />
-                          <div className="review-name">
-                            <h3>Client Name</h3>
-                            <p>Profession</p>
-                          </div>
-                        </div> */}
-                      </div>
-                    </div>
-                    {/* <div
-                      className="col-md-12 slick-slide slick-current slick-active"
-                      data-slick-index="0"
-                      aria-hidden="false"
-                      tabindex="0"
-                      style={{ width: " 626px" }}
-                    >
-                      <div className="review-slider-item">
-                        <div className="review-text">
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Sed eu suscipit orci. Donec molestie velit id
-                            libero blandit, quis suscipit urna suscipit. Donec
-                            aliquet erat eu lacinia iaculis. Ut tempor tellus eu
-                            sem pharetra feugiat.
-                          </p>
-                        </div>
-                        <div className="review-img">
-                          <img src="img/review-1.jpg" alt="Image" />
-                          <div className="review-name">
-                            <h3>Client Name</h3>
-                            <p>Profession</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div> */}
-                    {/* <div
-                      className="col-md-12 slick-slide"
-                      data-slick-index="1"
-                      aria-hidden="true"
-                      tabindex="-1"
-                      style={{ width: "626px" }}
-                    >
-                      <div className="review-slider-item">
-                        <div className="review-text">
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Sed eu suscipit orci. Donec molestie velit id
-                            libero blandit, quis suscipit urna suscipit. Donec
-                            aliquet erat eu lacinia iaculis. Ut tempor tellus eu
-                            sem pharetra feugiat.
-                          </p>
-                        </div>
-                        <div className="review-img">
-                          <img src="img/review-2.jpg" alt="Image" />
-                          <div className="review-name">
-                            <h3>Client Name</h3>
-                            <p>Profession</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div> */}
-                    {/* <div
-                      className="col-md-12 slick-slide"
-                      data-slick-index="2"
-                      aria-hidden="true"
-                      tabindex="-1"
-                      style={{ width: "626px" }}
-                    >
-                      <div className="review-slider-item">
-                        <div className="review-text">
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Sed eu suscipit orci. Donec molestie velit id
-                            libero blandit, quis suscipit urna suscipit. Donec
-                            aliquet erat eu lacinia iaculis. Ut tempor tellus eu
-                            sem pharetra feugiat.
-                          </p>
-                        </div>
-                        <div className="review-img">
-                          <img src="img/review-3.jpg" alt="Image" />
-                          <div className="review-name">
-                            <h3>Client Name</h3>
-                            <p>Profession</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div> */}
-                    {/* <div
-                      className="col-md-12 slick-slide slick-cloned"
-                      data-slick-index="3"
-                      aria-hidden="true"
-                      tabindex="-1"
-                      style={{ width: " 626px" }}
-                    >
-                      <div className="review-slider-item">
-                        <div className="review-text">
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Sed eu suscipit orci. Donec molestie velit id
-                            libero blandit, quis suscipit urna suscipit. Donec
-                            aliquet erat eu lacinia iaculis. Ut tempor tellus eu
-                            sem pharetra feugiat.
-                          </p>
-                        </div>
-                        <div className="review-img">
-                          <img src="img/review-1.jpg" alt="Image" />
-                          <div className="review-name">
-                            <h3>Client Name</h3>
-                            <p>Profession</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div> */}
-                    {/* <div
-                      className="col-md-12 slick-slide slick-cloned"
-                      data-slick-index="4"
-                      aria-hidden="true"
-                      tabindex="-1"
-                      style={{ width: "626px" }}
-                    >
-                      <div className="review-slider-item">
-                        <div className="review-text">
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Sed eu suscipit orci. Donec molestie velit id
-                            libero blandit, quis suscipit urna suscipit. Donec
-                            aliquet erat eu lacinia iaculis. Ut tempor tellus eu
-                            sem pharetra feugiat.
-                          </p>
-                        </div>
-                        <div className="review-img">
-                          <img src="img/review-2.jpg" alt="Image" />
-                          <div className="review-name">
-                            <h3>Client Name</h3>
-                            <p>Profession</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div> */}
-                    {/* <div
-                      className="col-md-12 slick-slide slick-cloned"
-                      data-slick-index="5"
-                      aria-hidden="true"
-                      tabindex="-1"
-                      style={{ width: " 626px" }}
-                    >
-                      <div className="review-slider-item">
-                        <div className="review-text">
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Sed eu suscipit orci. Donec molestie velit id
-                            libero blandit, quis suscipit urna suscipit. Donec
-                            aliquet erat eu lacinia iaculis. Ut tempor tellus eu
-                            sem pharetra feugiat.
-                          </p>
-                        </div>
-                        <div className="review-img">
-                          <img src="img/review-3.jpg" alt="Image" />
-                          <div className="review-name">
-                            <h3>Client Name</h3>
-                            <p>Profession</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div> */}
-                  </div>
-                </div>
 
-                <button
-                  className="slick-next slick-arrow"
-                  aria-label="Next"
-                  type="button"
-                  style={{}}
-                >
-                  Next
-                </button>
-              </div>
-            </div>
-          </div>
           <div className="contact" id="contact">
             <div className="content-inner">
               <div className="content-header">
