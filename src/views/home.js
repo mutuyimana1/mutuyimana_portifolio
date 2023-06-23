@@ -80,13 +80,11 @@ const Home = () => {
           </div>
           <div className="large-btn">
             <div className="content-inner">
-              <a className="btn" href="#">
+              <a className="btn" href="./files/Mutuyimana.pdf" download>
+                {" "}
                 <i className="fa fa-download"></i>Resume
               </a>
-              <a
-                className="btn"
-                href="https://www.linkedin.com/in/mutuyimana-alice-7b7224187/"
-              >
+              <a className="btn" href="mailto:amutuyimana64@gmail.com">
                 <i className="fa fa-hands-helping"></i>Hire Me
               </a>
             </div>
